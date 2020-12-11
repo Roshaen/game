@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-[![Javascript](https://img.shields.io/static/v1.svg?label=Javascript&message=Welcome&color=0059b3&style=flat-square)]
+[![Javascript Welcome](https://img.shields.io/static/v1.svg?label=Javascript&message=Welcome&color=0059b3&style=flat-square)]
 (https://www.w3schools.com/html/)&nbsp;
 [![HTML](https://img.shields.io/static/v1.svg?label=HTML&message=Welcome&color=f98750&style=flat-square)]
 (https://www.w3schools.com/css/)&nbsp;
